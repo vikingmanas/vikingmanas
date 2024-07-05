@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikingmanas
+- 👋 Hi, I’m Manas Dubey
 - 👀 I’m interested in Coading/Tech
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Frontend Development
