@@ -9,29 +9,8 @@
 ## 🎯 About Me
 
 - 💼 I'm a developer with a strong focus on **Java**, **databases**, and crafting **custom data structures**.
-- 🖥️ My recent project is an **online car dealership platform**, using Java, HTML, CSS, and database management.
 - 🚀 I'm constantly learning and implementing good design principles like **SOLID** to make my code clean, efficient, and scalable.
-- 🌐 I participated in the **GirlScript Summer of Code** and earned three badges: **Explorer**, **Adventurer**, and **Trailblazer**!
 
----
-
-## 🏆 Achievements in GirlScript Summer of Code
-
-<p align="center">
-<img src="https://img.shields.io/badge/Explorer-FF6F00?style=for-the-badge" alt="Explorer Badge">
-<img src="https://img.shields.io/badge/Adventurer-4CBB17?style=for-the-badge" alt="Adventurer Badge">
-<img src="https://img.shields.io/badge/Trailblazer-1E90FF?style=for-the-badge" alt="Trailblazer Badge">
-</p>
-
-During the GirlScript Summer of Code, I worked on various projects, contributed to open source, and earned the following badges:
-
-| Badge | Description |
-|-------|-------------|
-| ![Explorer Badge](link-to-explorer-badge.png) | **Explorer Badge** - For exploring new challenges and pushing boundaries! |
-| ![Adventurer Badge](link-to-adventurer-badge.png) | **Adventurer Badge** - For venturing into new territories and taking on exciting tasks! |
-| ![Trailblazer Badge](link-to-trailblazer-badge.png) | **Trailblazer Badge** - For blazing a path forward and making an impact! |
-
----
 
 ## 💻 Technical Skills
 
