@@ -1,26 +1,26 @@
 # 👋 Hi, I’m Manas Dubey
 
 ### 👀 About Me
-- I’m interested in **Coding** and **Tech**.
-- Currently learning **Web Development**.
-- Seeking collaboration opportunities in **Frontend Development**.
+- I’m interested in **Coding** and **Tech**. 💻
+- Currently learning **Web Development**. 🌱
+- Seeking collaboration opportunities in **Frontend Development**. 🤝
 
 ### 📫 Reach Me
-- Email: [manasdubey2709@gmail.com](mailto:manasdubey2709@gmail.com)
+- Email: [manasdubey2709@gmail.com](mailto:manasdudey2709@gmail.com)
 
 ### 😄 Pronouns
 - He/Him
 
 ### ⚡ Fun Fact
-- Did you know? The term "bug" in coding originated from a moth found in the Harvard Mark II!
+- Did you know? The term "bug" in coding originated from a moth found in the Harvard Mark II! 🐛✨
 
 ---
 
 ### 🌱 Current Projects
-- **Car Dealership Project**: Exploring innovative solutions in the automotive sector.
+- **Car Dealership Project**: Exploring innovative solutions in the automotive sector. 🚗💨
 
 ### 🔧 Tech Stack
-- **Languages**: HTML, CSS, JavaScript
+- **Languages**: HTML, CSS, JavaScript 
 - **Frameworks/Libraries**: React, Bootstrap
 - **Tools**: Git, GitHub, Visual Studio Code
 
@@ -30,9 +30,11 @@
 
 ---
 
+### 🎉 Check Out My Holopin Badges
 [![An image of @vikingmanas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikingmanas)](https://holopin.io/@vikingmanas)
 
 <!---
 vikingmanas/vikingmanas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
