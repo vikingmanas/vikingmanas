@@ -91,12 +91,17 @@ A processor that switches between different databases and modes:
 </p>
 
 ---
-
 ## 📈 GitHub Activity
 
 <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=vikingmanas&theme=react-dark&bg_color=20232a&hide_border=true&area=true&area_color=FFA500" alt="GitHub Activity Graph">
 </p>
+
+- 🌟 **Consistent Commits**: I commit regularly to various projects, ensuring steady progress and engagement.
+- 💡 **Open Source Contributions**: Actively contributed to GirlScript Summer of Code projects, earning badges for different milestones.
+- 🔄 **Code Reviews and Collaborations**: Participated in code reviews, helping others improve their code and ensuring high-quality contributions.
+- 📌 **Featured Projects**: Major focus on [Online Car Dealership](https://github.com/vikingmanas/online-car-dealership), and custom data structures like the "Power of Two Max Heap."
+- 📚 **Learning Repositories**: Created small projects to explore new tech, including **Spring Boot** basics and **Advanced Data Structures**.
 
 ---
 
