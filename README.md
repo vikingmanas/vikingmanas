@@ -84,15 +84,15 @@ Working on a processor that switches between different databases and modes:
 
 I'm always excited to connect with fellow developers, open-source contributors, and tech enthusiasts. Feel free to reach out on any of the following platforms:
 
-- [LinkedIn]() 🌐
-- [Twitter]() 🐦
-- [Email]() 📧
+- [LinkedIn](https://www.linkedin.com/in/manas-dubey-415385296) 🌐
+- [Twitter](https://x.com/DubeyManas007) 🐦
+- [Email](manasdubey2709@gmail.com) 📧
 
 ---
 
 ## 📈 GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark&bg_color=20232a&hide_border=true&area=true&area_color=FFA500)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vikingmanas&theme=react-dark&bg_color=20232a&hide_border=true&area=true&area_color=FFA500)
 
 ---
 
