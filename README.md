@@ -21,7 +21,7 @@
 | **SQL**: Relational DBs | **Git**: Version control | **CSS Animations**: Smooth transitions |
 
 ---
-
+[![An image of @vikingmanas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikingmanas)](https://holopin.io/@vikingmanas)
 ## 🚀 Key Projects
 
 ### [Online Car Dealership](https://github.com/vikingmanas/online-car-dealership)
