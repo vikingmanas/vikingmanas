@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vikingmanas!
+# 👋 Hello, I'm Manas!
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building efficient and scalable backend systems, with a flair for interactive front-end designs that balance performance and user experience.
 
@@ -45,7 +45,7 @@ During the GirlScript Summer of Code, I worked on various projects, contributed 
 
 ## 🚀 Key Projects
 
-### [Online Car Dealership](https://github.com/your-username/online-car-dealership)
+### [Online Car Dealership](https://github.com/vikingmanas/online-car-dealership)
 An interactive platform for buying and selling cars online. Built with Java, CSS, and HTML, this project features:
 - Smooth animations and interactive designs.
 - Database integration for car listings and user management.
@@ -67,8 +67,8 @@ Working on a processor that switches between different databases and modes:
 
 ## 🛠️ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikingmanas&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikingmanas&layout=compact&theme=radical)
 
 ---
 
