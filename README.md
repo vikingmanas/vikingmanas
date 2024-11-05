@@ -94,7 +94,11 @@ A processor that switches between different databases and modes:
 ## 📈 GitHub Activity
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vikingmanas&theme=react-dark&bg_color=20232a&hide_border=true&area=true&area_color=FFA500" alt="GitHub Activity Graph">
+    <img src="https://github-readme-stats.vercel.app/api?username=vikingmanas&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=vikingmanas&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 - 🌟 **Consistent Commits**: I regularly commit to various projects, ensuring steady progress and consistent engagement.
