@@ -11,27 +11,29 @@
 - 💼 I'm a developer with a strong focus on **Java**, **databases**, and crafting **custom data structures**.
 - 🚀 I'm constantly learning and implementing good design principles like **SOLID** to make my code clean, efficient, and scalable.
 
-<div style="display: flex; align-items: center; gap: 20px;">
+## 💻 Technical Skills
 
-  <!-- Skills Table Section -->
-  <div>
+### Languages
+- **Java** – Backend development
+- **HTML & CSS** – User Interface development
+- **SQL** – Relational databases
 
-  ## 💻 Technical Skills
+### Tools & Frameworks
+- **Spring Boot** – Beginner level
+- **UML** – Creating architecture diagrams
+- **Git** – Version control
 
-  | Languages               | Tools & Frameworks      | Design & Animation |
-  |-------------------------|-------------------------|---------------------|
-  | **Java**: Backend dev   | **Spring Boot**: Beginner | **Front-End Design**: Interactive elements, hover effects |
-  | **HTML & CSS**: UI dev  | **UML**: Architecture diagrams | **User Experience**: Responsive interfaces |
-  | **SQL**: Relational DBs | **Git**: Version control | **CSS Animations**: Smooth transitions |
+### Design & Animation
+- **Front-End Design** – Interactive elements, hover effects
+- **User Experience** – Building responsive interfaces
+- **CSS Animations** – Implementing smooth transitions
 
-  </div>
+---
 
-  <!-- GIF Section -->
-  <div>
+<div align="center">
     <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif?cid=790b7611rncfrim6rqt4ysjrrxy4p280phehbeuhrhpi9lzv&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Debugging Chaos" width="200" />
-  </div>
-  
 </div>
+
 
 
 ---
