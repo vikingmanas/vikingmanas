@@ -13,11 +13,6 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <!-- GIF Section -->
-  <div>
-    <img src="https://giphy.com/gifs/perfect-loops-kspVl6FzbdblOMKRmM" alt="Debugging Chaos" width="200" />
-  </div>
-
   <!-- Skills Table Section -->
   <div>
 
@@ -30,6 +25,12 @@
   | **SQL**: Relational DBs | **Git**: Version control | **CSS Animations**: Smooth transitions |
 
   </div>
+
+  <!-- GIF Section -->
+  <div>
+    <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif?cid=790b7611rncfrim6rqt4ysjrrxy4p280phehbeuhrhpi9lzv&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Debugging Chaos" width="200" />
+  </div>
+  
 </div>
 
 
