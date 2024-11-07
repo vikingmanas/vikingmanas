@@ -11,14 +11,27 @@
 - 💼 I'm a developer with a strong focus on **Java**, **databases**, and crafting **custom data structures**.
 - 🚀 I'm constantly learning and implementing good design principles like **SOLID** to make my code clean, efficient, and scalable.
 
+<div style="display: flex; align-items: center; gap: 20px;">
 
-## 💻 Technical Skills
+  <!-- GIF Section -->
+  <div>
+    <img src="https://giphy.com/gifs/perfect-loops-kspVl6FzbdblOMKRmM" alt="Debugging Chaos" width="200" />
+  </div>
 
-| Languages               | Tools & Frameworks      | Design & Animation |
-|-------------------------|-------------------------|---------------------|
-| **Java**: Backend dev   | **Spring Boot**: Beginner | **Front-End Design**: Interactive elements, hover effects |
-| **HTML & CSS**: UI dev  | **UML**: Architecture diagrams | **User Experience**: Responsive interfaces |
-| **SQL**: Relational DBs | **Git**: Version control | **CSS Animations**: Smooth transitions |
+  <!-- Skills Table Section -->
+  <div>
+
+  ## 💻 Technical Skills
+
+  | Languages               | Tools & Frameworks      | Design & Animation |
+  |-------------------------|-------------------------|---------------------|
+  | **Java**: Backend dev   | **Spring Boot**: Beginner | **Front-End Design**: Interactive elements, hover effects |
+  | **HTML & CSS**: UI dev  | **UML**: Architecture diagrams | **User Experience**: Responsive interfaces |
+  | **SQL**: Relational DBs | **Git**: Version control | **CSS Animations**: Smooth transitions |
+
+  </div>
+</div>
+
 
 ---
 [![An image of @vikingmanas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikingmanas)](https://holopin.io/@vikingmanas)
