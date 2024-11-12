@@ -1,5 +1,3 @@
-Your README looks clear and well-structured. Here’s an edited version for any minor errors and enhanced readability:
-
 ---
 
 <h1 align="center">👋 Hello, I'm Manas! </h1>
