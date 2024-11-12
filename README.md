@@ -1,3 +1,7 @@
+Your README looks clear and well-structured. Here’s an edited version for any minor errors and enhanced readability:
+
+---
+
 <h1 align="center">👋 Hello, I'm Manas! </h1>
 
 <p align="center">
@@ -9,7 +13,7 @@
 ## 🎯 About Me
 
 - 💼 I'm a developer with a strong focus on **Java**, **databases**, and crafting **custom data structures**.
-- 🚀 I'm constantly learning and implementing good design principles like **SOLID** to make my code clean, efficient, and scalable.
+- 🚀 I'm constantly learning and implementing design principles like **SOLID** to make my code clean, efficient, and scalable.
 
 ## 💻 Technical Skills
 
@@ -34,10 +38,10 @@
     <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif?cid=790b7611rncfrim6rqt4ysjrrxy4p280phehbeuhrhpi9lzv&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Debugging Chaos" width="200" />
 </div>
 
-
-
 ---
+
 [![An image of @vikingmanas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikingmanas)](https://holopin.io/@vikingmanas)
+
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -49,7 +53,9 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 </details>
-    ---
+
+---
+
 ## 🚀 Key Projects
 
 ### [Online Car Dealership](https://github.com/vikingmanas/online-car-dealership)
@@ -98,6 +104,7 @@ A processor that switches between different databases and modes:
 </p>
 
 ---
+
 ## 📈 GitHub Activity
 
 <p align="center">
