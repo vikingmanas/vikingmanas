@@ -12,6 +12,8 @@
 
 - 💼 I'm a developer with a strong focus on **Java**, **databases**, and crafting **custom data structures**.
 - 🚀 I'm constantly learning and implementing design principles like **SOLID** to make my code clean, efficient, and scalable.
+- 💡 **Open Source Contributor**: Actively contributing to open-source projects, including **GirlScript Summer of Code**, where I earned various badges and awards.
+- 🏆 **Hackathon Enthusiast**: Participated in the **Smart India Hackathon 2024**, where my team **Alpha** and our project **Lawbot** was among the top 100.
 
 ## 💻 Technical Skills
 
