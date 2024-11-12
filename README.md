@@ -49,6 +49,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 </details>
+    ---
 ## 🚀 Key Projects
 
 ### [Online Car Dealership](https://github.com/vikingmanas/online-car-dealership)
