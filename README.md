@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">👋 Hello, I'm Manas! </h1>
+<h1 align="center">👋 Hello, I'm Manas!!! </h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFA500&center=true&width=435&lines=Passionate+Developer+%7C+Java+Enthusiast;Backend+Architect+%7C+Frontend+Designer;Building+Functional+and+Engaging+Apps" alt="Typing SVG" />
