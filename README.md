@@ -131,4 +131,4 @@ A processor that switches between different databases and modes:
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and see what I've been working on. Let's create something amazing together! 😊
+Thanks for visiting my profile! Feel free to check out my repositories and see what I've been working on. Let's create something amazing together!😊
