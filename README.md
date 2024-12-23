@@ -1,5 +1,3 @@
----
-
 <h1 align="center">👋 Hello, I'm Manas!!! </h1>
 
 <p align="center">
@@ -10,12 +8,22 @@
 
 ## 🎯 About Me
 
+<div align="center">
+    <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" alt="Coding Animation" width="250" />
+</div>
+
 - 💼 I'm a developer with a strong focus on **Java**, **databases**, and crafting **custom data structures**.
 - 🚀 I'm constantly learning and implementing design principles like **SOLID** to make my code clean, efficient, and scalable.
 - 💡 **Open Source Contributor**: Actively contributing to open-source projects, including **GirlScript Summer of Code**, where I earned various badges and awards.
 - 🏆 **Hackathon Enthusiast**: Participated in the **Smart India Hackathon 2024**, where my team **Alpha** and our project **Lawbot** was among the top 100.
 
+---
+
 ## 💻 Technical Skills
+
+<div align="center">
+    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" alt="Skills Animation" width="200" />
+</div>
 
 ### Languages
 - **Java** – Backend development
@@ -83,11 +91,17 @@ A processor that switches between different databases and modes:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vikingmanas&show_icons=true&theme=radical" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikingmanas&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://streak-stats.demolab.com?user=vikingmanas&theme=radical&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-contributor-stats.vercel.app/api?username=vikingmanas&limit=5&theme=radical" alt="GitHub Contributions">
 </p>
 
 ---
 
 ## 🌱 Currently Learning
+
+<div align="center">
+    <img src="https://media.giphy.com/media/xT39D7ubkIUIrgX5qo/giphy.gif" alt="Learning Animation" width="200" />
+</div>
 
 - **Spring Boot**: Expanding my knowledge of Spring Boot to enhance my backend projects.
 - **Advanced Data Structures**: Always exploring new data structures for performance gains.
@@ -105,24 +119,6 @@ A processor that switches between different databases and modes:
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vikingmanas&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=vikingmanas&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
-
-- 🌟 **Consistent Commits**: I regularly commit to various projects, ensuring steady progress and consistent engagement.
-- 💡 **Open Source Contributions**: Actively contributed to **GirlScript Summer of Code** projects, earning badges like Explorer, Adventurer, and Trailblazer.
-- 🔄 **Code Reviews and Collaborations**: Engaged in code reviews to help improve code quality and promote collaboration within the community.
-- 📌 **Highlighted Projects**: Focused efforts on [Online Car Dealership](https://github.com/vikingmanas/online-car-dealership) and custom data structures, like the "Power of Two Max Heap."
-- 📚 **Learning Repositories**: Developed small projects to explore new technologies, such as **Spring Boot** basics and **Advanced Data Structures**.
-
----
-
 ## 🧩 Fun Facts
 
 - 🎸 I love exploring new tech and trying out different coding techniques.
@@ -131,4 +127,4 @@ A processor that switches between different databases and modes:
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and see what I've been working on. Let's create something amazing together!😊
+Thanks for visiting my profile! Feel free to check out my repositories and see what I've been working on. Let's create something amazing together! 😊
