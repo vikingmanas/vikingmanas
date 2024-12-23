@@ -91,7 +91,7 @@ A processor that switches between different databases and modes:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vikingmanas&show_icons=true&theme=radical" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikingmanas&layout=compact&theme=radical" alt="Top Languages">
-    <img src="https://streak-stats.demolab.com?user=vikingmanas&theme=radical&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=vikingmanas&theme=radical&hide_border=true" alt="GitHub Streak">
     <img src="https://github-contributor-stats.vercel.app/api?username=vikingmanas&limit=5&theme=radical" alt="GitHub Contributions">
 </p>
 
