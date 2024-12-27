@@ -18,27 +18,21 @@
 - 🏆 **Hackathon Enthusiast**: Participated in the **Smart India Hackathon 2024**, where my team **Alpha** and our project **Lawbot** was among the top 100.
 
 ---
-
-## 💻 Technical Skills
+## 🛠️ Technologies & Tools
 
 <div align="center">
     <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" alt="Skills Animation" width="200" />
 </div>
 
-### Languages
-- **Java** – Backend development
-- **HTML & CSS** – User Interface development
-- **SQL** – Relational databases
-
-### Tools & Frameworks
-- **Spring Boot** – Beginner level
-- **UML** – Creating architecture diagrams
-- **Git** – Version control
-
-### Design & Animation
-- **Front-End Design** – Interactive elements, hover effects
-- **User Experience** – Building responsive interfaces
-- **CSS Animations** – Implementing smooth transitions
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
 ---
 
