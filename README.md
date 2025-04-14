@@ -57,7 +57,6 @@
 </details>
 
 ---
-
 ## 🚀 Key Projects
 
 ### [Online Car Dealership](https://github.com/vikingmanas/online-car-dealership)
@@ -66,17 +65,16 @@ An interactive platform for buying and selling cars online. Built with Java, CSS
 - 💾 Database integration for car listings and user management.
 - 👥 User-friendly interface with hover effects and background opacity adjustments.
 
-### Power of Two Max Heap (Custom Data Structure)
-A unique data structure called a "Power of Two Max Heap" in Java:
-- ⚙️ Optimized insert and pop-max operations.
-- 🧠 Efficient memory management and careful handling of underlying data.
-- 🚀 Performance-focused enhancements specific to this custom structure.
+### Recent Projects 🚧
+A glimpse of what I'm currently building:
+- 🧠 **MedGen (AI Medical Chatbot)**: A generative AI chatbot using LangChain, Pinecone, and OpenAI for medical use cases.
+- 🧴 **SkinCare Recommender (In Progress)**: A MERN stack-based platform to help users choose the right skincare products based on skin type and concern.
+- 👁️‍🗨️ **Sign2Text Translator (Prototype)**: A video-based app that detects and translates sign language into text and vice versa.
+- 💬 [**MindEase (Mental Health Chatbot)**](https://github.com/vikingmanas/MentalHealthGen): A compassionate mental health chatbot built using NLP and sentiment analysis techniques.
+  - 🧘 Offers calming conversations for stress and anxiety.
+  - 🧠 Uses contextual understanding to provide meaningful emotional support.
+  - 🌐 Deployable via web or chat interface, designed to ensure user privacy.
 
-### Dynamically Reconfigurable Data Processor (In Progress)
-A processor that switches between different databases and modes:
-- 🛠️ Supports 'Dump,' 'Passthrough,' and 'Validate' modes.
-- 🔄 Configurable for Postgres, Redis, and Elastic databases.
-- 📏 Built with scalability and extendability, following SOLID principles.
 
 ---
 
