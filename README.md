@@ -60,20 +60,28 @@
 ## 🚀 Key Projects
 
 ### [Online Car Dealership](https://github.com/vikingmanas/online-car-dealership)
-An interactive platform for buying and selling cars online. Built with Java, CSS, and HTML, this project features:
-- 🏎️ Smooth animations and interactive designs.
-- 💾 Database integration for car listings and user management.
-- 👥 User-friendly interface with hover effects and background opacity adjustments.
+An interactive platform for buying and selling cars online. Built with **Java**, **CSS**, and **HTML**, this project includes:
+- 🏎️ Smooth animations and responsive design.
+- 💾 Integrated database for managing listings and users.
+- 👥 User-friendly interface with hover effects and dynamic visuals.
 
-### Recent Projects 🚧
-A glimpse of what I'm currently building:
-- 🧠 **MedGen (AI Medical Chatbot)**: A generative AI chatbot using LangChain, Pinecone, and OpenAI for medical use cases.
-- 🧴 **SkinCare Recommender (In Progress)**: A MERN stack-based platform to help users choose the right skincare products based on skin type and concern.
-- 👁️‍🗨️ **Sign2Text Translator (Prototype)**: A video-based app that detects and translates sign language into text and vice versa.
-- 💬 [**MindEase (Mental Health Chatbot)**](https://github.com/vikingmanas/MentalHealthGen): A compassionate mental health chatbot built using NLP and sentiment analysis techniques.
-  - 🧘 Offers calming conversations for stress and anxiety.
-  - 🧠 Uses contextual understanding to provide meaningful emotional support.
-  - 🌐 Deployable via web or chat interface, designed to ensure user privacy.
+---
+
+### [MedGen – AI Medical Chatbot](https://github.com/vikingmanas/medgen)
+A powerful generative AI chatbot designed to assist with basic medical queries. Built using **LangChain**, **Pinecone**, and **OpenAI APIs**:
+- 🤖 Trained on medical documents to provide context-aware responses.
+- 📚 Uses LLMs for real-time conversational support.
+- 🧠 Great for healthcare-related information and symptom checks.
+
+---
+
+### [MindEase – Mental Health Chatbot](https://github.com/vikingmanas/mental-health-chatbot)
+A mental wellness chatbot that uses **NLP** and **sentiment analysis** to offer emotional support:
+- 🧘 Helps users cope with stress, anxiety, and emotional fatigue.
+- 💬 Context-aware conversations that feel empathetic and supportive.
+- 🔒 Prioritizes user privacy with offline support and local chat interface.
+
+
 
 
 ---
