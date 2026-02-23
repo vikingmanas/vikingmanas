@@ -86,8 +86,8 @@ I'm a passionate **Software Engineer** and a **B.Tech CSE student at Galgotias U
 ## 📊 GitHub & Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikingmanas&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikingmanas&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikingmanas&show_icons=true&theme=radical&hide_border=true&rank_icon=github&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikingmanas&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
