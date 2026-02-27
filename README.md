@@ -22,17 +22,15 @@
 
 # 👨‍💻 About Me
 
-I’m **Manas Dubey**, a 3rd Year B.Tech Computer Science student focused on mastering core computer science fundamentals and building production-grade systems.
+I’m **Manas Dubey**, a 3rd Year B.Tech Computer Science student focused on mastering core CS fundamentals and building production-grade systems.
 
-My focus areas:
+- 🔹 Backend Engineering — **Java + Spring Boot**
+- 🔹 Full-Stack Development — MERN + REST APIs
+- 🔹 Advanced DSA — Interview-focused Java implementations
+- 🔹 iOS Engineering — SwiftUI + RealityKit
+- 🔹 AI Systems — RAG pipelines & On-device models
 
-- 🔹 Backend Engineering using **Java + Spring Boot**
-- 🔹 Full-Stack Development (MERN + REST APIs)
-- 🔹 Advanced Data Structures & Algorithms (Java)
-- 🔹 iOS Engineering (Swift + SwiftUI + RealityKit)
-- 🔹 On-device AI & RAG-based AI systems
-
-Currently preparing rigorously for high-impact software engineering internships.
+Currently preparing with FAANG-level rigor for high-impact internships.
 
 ---
 
@@ -41,69 +39,60 @@ Currently preparing rigorously for high-impact software engineering internships.
 ## 💻 Languages
 `Java` `Python` `Swift` `C++` `JavaScript` `SQL`
 
-## 🏗 Backend Engineering
+## 🏗 Backend
 - Spring Boot (REST APIs, Validation, Security)
 - Node.js & Express
-- Role-Based Authentication Systems
-- Clean Architecture & Modular Design
-- Performance-conscious API development
+- Modular Architecture
+- Clean Code & SOLID principles
 
-## 🌐 Full-Stack
+## 🌐 Full Stack
 - React / Next.js
 - MySQL / MongoDB / PostgreSQL
-- API Integration
-- Dynamic UI systems
+- REST API integration
 
-## 📱 iOS Engineering
+## 📱 iOS
 - Swift + SwiftUI
 - MVVM Architecture
-- RealityKit (3D rendering)
+- RealityKit (3D systems)
 - Foundation Models (On-device AI)
-- Accessibility-compliant UI
 
 ## 🤖 AI / ML
 - TensorFlow
 - OpenCV
-- Retrieval-Augmented Generation (RAG)
-- NLP-based chatbot systems
+- LangChain + Vector DB
+- NLP-based chat systems
 
 ---
 
-# 🏆 Notable Projects
+# 🏆 Highlight Projects
 
 ## 🧪 MoleVerse — Swift Student Challenge Submission
 
-3D Interactive Chemistry Learning Application.
+3D Interactive Chemistry Learning App.
 
 - RealityKit-based molecule rendering engine
-- Modular Architecture (Core / Engine / Views / ViewModels)
+- Modular architecture (Core / Engine / Views)
 - On-device AI contextual assistance
-- iPad optimized with accessibility support
+- Accessibility compliant & iPad optimized
 - Performance-aware 3D interaction system
 
-Demonstrates:
-- Advanced SwiftUI architecture
-- Real-time rendering systems
-- Clean modular separation
-- Product thinking for education
+Demonstrates strong Swift architecture and systems thinking.
 
 ---
 
 ## 🤖 MedGen — AI Medical Chatbot
 
-- Built using LLM + RAG architecture
-- LangChain + Pinecone integration
-- Context-aware medical document retrieval
-- Structured prompt engineering
+- LLM + RAG architecture
+- Context-aware retrieval
+- Prompt engineering & vector search
 
 ---
 
 ## 💻 Online Car Dealership
 
 - Java backend + MySQL
-- Authentication & user management
-- Clean REST architecture
-- Dynamic interactive frontend
+- Authentication & role management
+- RESTful design
 
 ---
 
@@ -113,8 +102,8 @@ Demonstrates:
 Google for Developers × AICTE EduSkills  
 (Jul 2024 – Sep 2024)
 
-- Applied TensorFlow on real datasets
-- Built predictive ML models
+- Built ML models using TensorFlow
+- Applied predictive analytics
 - Strengthened applied AI fundamentals
 
 ---
@@ -123,23 +112,30 @@ Google for Developers × AICTE EduSkills
 
 ## 👩‍💻 GirlScript Summer of Code 2024 (GSSoC)
 
-Active contributor to open-source projects with collaborative development and API-focused contributions.
+Contributed to open-source projects with collaborative development and API-focused work.
 
-<details>
-  <summary><b>🏅 View GSSoC & Postman Badges</b></summary>
-  <br>
-  <p align="center">
-    <a href="https://holopin.io/@vikingmanas">
-      <img src="https://holopin.me/vikingmanas" />
-    </a>
-  </p>
-</details>
+### 🏅 GSSoC & Postman Badges
+
+<p align="center">
+  <a href="https://holopin.io/@vikingmanas">
+    <img src="https://holopin.me/vikingmanas" alt="Holopin Badges"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px"/>
+</p>
 
 ---
 
 # 🧠 Competitive Programming & DSA
 
-I follow structured interview-focused preparation with emphasis on optimized Java implementations.
+Structured preparation with optimized Java implementations.
 
 ## 📈 Live Ratings
 
@@ -147,20 +143,14 @@ I follow structured interview-focused preparation with emphasis on optimized Jav
 - 🔵 **Codeforces:** 1001  
 - 🟤 **CodeChef:** 1★  
 
-## 🎯 Core Focus
+## 🎯 Focus Areas
 
 - Stack & Queue mastery
 - Dynamic Programming
-- Graph algorithms (BFS / DFS / Shortest Path)
+- Graph algorithms
 - Sliding Window & Two Pointers
-- String manipulation & pattern matching
-- Complexity optimization (O(n), O(log n))
-
-I prioritize:
-- Clean, readable code
-- Edge-case coverage
-- Optimal time & space complexity
-- Interview-style structured thinking
+- String optimization
+- Time & Space complexity analysis
 
 ---
 
@@ -182,17 +172,17 @@ I prioritize:
 
 # 🎯 Current Focus
 
-- Advancing from CF 1000 → 1400+
-- Strengthening Dynamic Programming depth
-- System Design fundamentals
+- Push CF 1000 → 1400+
+- Strengthen DP & Graph depth
 - Backend scalability patterns
-- Internship preparation with FAANG-level rigor
+- System Design fundamentals
+- Internship readiness
 
 ---
 
 <div align="center">
 
-### “Strong fundamentals. Clean architecture. Consistent execution.”
+### “Strong fundamentals. Clean architecture. Relentless improvement.”
 
 Open to internship opportunities and impactful engineering collaborations.
 
