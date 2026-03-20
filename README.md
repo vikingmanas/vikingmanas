@@ -1,107 +1,105 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=200&section=header&text=Hello%20World,%20I'm%20Manas!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A18,100:FFB347&height=200&section=header&text=Hi,%20I'm%20Manas%20Dubey&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manas-dubey-415385296" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/manas-dubey-415385296">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/vikingmanas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/vikingmanas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:manasdubey2709@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://x.com/DubeyManas007" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&width=650&lines=Java+Backend+Engineer+%7C+Full-Stack+Developer;Swift+Student+Challenge+Builder;AI%2FML+%26+DSA+Focused;Preparing+for+Top-Tier+Internships." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF7A18&center=true&width=650&lines=Java+Backend+Developer;DSA+%7C+Spring+Boot+%7C+SQL;Full+Stack+Developer;Preparing+for+SDE+Internships+2026" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** and a **3rd Year B.Tech CSE student at Galgotias University**, focused on mastering core computer science fundamentals and building scalable production-ready systems.
+- 🎓 3rd Year B.Tech CSE — Galgotias University  
+- 💻 Aspiring **Software Engineer / Backend Developer**
+- ⚙️ Strong in **Java, DSA, OOP, DBMS, OS, CN**
+- 🔥 Solved 300+ DSA problems across platforms
+- 🧠 Focused on **Spring Boot, System Design, and Backend Development**
+- 🤖 Experience in **AI/ML, RAG, and LLM based projects**
+- 🎯 Target: Product-based companies & top tech internships
 
-- 🚀 I apply **SOLID principles** to write modular and maintainable Java & Spring Boot applications.
-- 📱 Built and submitted **MoleVerse** for the *Swift Student Challenge* — a 3D interactive chemistry learning app using SwiftUI & RealityKit.
-- 🧠 Strong interest in **Machine Learning & AI**, working with TensorFlow, OpenCV, and RAG-based systems.
-- ⚙️ **Competitive Programming:** Actively sharpening DSA skills.  
-  - 🟠 LeetCode: **1507 Rating**  
-  - 🔵 Codeforces: **1001 Rating**  
-  - 🟤 CodeChef: **1★**
-- 🎯 Currently preparing rigorously for top-tier software engineering internships.
-- 🤝 Open to impactful collaborations and open-source contributions.
-
----
-
-## 🛠️ My Tech Stack
-
-| Category | Technologies |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,swift,cpp,js,sql" height="30" /> |
-| **Backend & Web** | <img src="https://skillicons.dev/icons?i=spring,nodejs,react,nextjs" height="30" /> |
-| **AI, ML & Mobile**| <img src="https://skillicons.dev/icons?i=tensorflow,opencv,apple" height="30" /> |
-| **Databases**| <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="30" /> |
-| **Tools & Platforms**| <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,idea" height="30" /> |
+### 💻 Coding Profiles
+- 🟠 LeetCode — 1507 Rating  
+- 🔵 Codeforces — 1001 Rating  
+- 🟤 CodeChef — 1★  
 
 ---
 
-## 🏆 Experience & Achievements
+## 🛠 Tech Stack
 
-* **AI-ML Virtual Intern @ Google for Developers & AICTE EduSkills** (Jul 2024 - Sep 2024) — Completed a 10-week intensive program on modern AI/ML workflows and TensorFlow.
-* **Swift Student Challenge Submission — MoleVerse** — Designed and built a 3D interactive chemistry app using RealityKit and modular architecture.
-* **Finalist @ Smart India Hackathon 2024** — Led Team *Alpha* in developing *LawBot*, an AI-powered legal assistance platform.
-* **Contributor @ GirlScript Summer of Code '24** — Contributed to open-source projects and earned multiple Postman API proficiency badges.
-
-<details>
-  <summary><b>🏅 Click to see my GSSOC & Postman Badges</b></summary>
-  <br>
-  <p align="center">
-    <a href="https://holopin.io/@vikingmanas">
-      <img src="https://holopin.me/vikingmanas" alt="@vikingmanas's Holopin badges">
-    </a>
-    <br><br>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" />
-  </p>
-</details>
+| Category | Skills |
+|----------|---------|
+| Languages | Java, Python, C++, JavaScript, SQL |
+| Backend | Spring Boot, Node.js, REST API |
+| Frontend | React, Next.js, HTML, CSS, Bootstrap |
+| Database | MySQL, MongoDB, PostgreSQL |
+| AI / ML | TensorFlow, OpenCV, LangChain, LLM |
+| Tools | Git, GitHub, Docker, Postman, IntelliJ, VS Code |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **MoleVerse (Swift Student Challenge)** | 3D interactive chemistry learning application using RealityKit with modular architecture and on-device AI. | <img src="https://skillicons.dev/icons?i=swift,apple" height="25" /> |
-| **MedGen – AI Medical Chatbot** | Context-aware medical chatbot built using RAG (LangChain + Vector DB). | <img src="https://skillicons.dev/icons?i=python,postgres" height="25" /> |
-| **MindEase – Mental Health Chatbot** | NLP-based emotional support chatbot with sentiment analysis. | <img src="https://skillicons.dev/icons?i=python" height="25" /> |
-| **Online Car Dealership** | Full-stack Java-based web platform with authentication & MySQL backend. | <img src="https://skillicons.dev/icons?i=java,mysql" height="25" /> |
+### 🔹 MedGen – AI Medical Chatbot
+- Built using RAG + LangChain + Vector DB
+- Context aware responses using LLM
+- Backend in Python + PostgreSQL
+
+### 🔹 Online Car Dealership (Java Full Stack)
+- Authentication system
+- MySQL database integration
+- Java backend + frontend templates
+
+### 🔹 MoleVerse – Swift Student Challenge
+- 3D chemistry learning app
+- Built with SwiftUI + RealityKit
+- Modular architecture
+
+### 🔹 MindEase – NLP Chatbot
+- Sentiment analysis based chatbot
+- Built using Python NLP libraries
 
 ---
 
-## 📊 GitHub & Coding Stats
+## 🏆 Achievements
+
+- AI-ML Virtual Internship — Google for Developers & AICTE
+- Finalist — Smart India Hackathon
+- Contributor — GirlScript Summer of Code
+- Active Competitive Programmer
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=vikingmanas&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=vikingmanas&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://readme-stats-fast.vercel.app/api?username=vikingmanas&show_icons=true&theme=radical&hide_border=true" />
+
+<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=vikingmanas&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vikingmanas&theme=radical&hide_border=true" />
+
+<img src="https://leetcard.jacoblin.cool/ManasDu?theme=dark&font=Fira%20Code&ext=activity" />
+
 </div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikingmanas&theme=radical&hide_border=true" />
-  <img src="https://leetcard.jacoblin.cool/ManasDu?theme=dark&font=Fira%20Code&ext=activity" />
-</div>
 
 ---
 
 <div align="center">
-  <h3><b>Thanks for stopping by! Let's build something impactful together. 🚀</b></h3>
+  
+⭐ Always learning | Always building | Always improving
+
 </div>
