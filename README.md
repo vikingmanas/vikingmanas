@@ -31,9 +31,8 @@
 - 🎯 Target: Product-based companies & top tech internships
 
 ### 💻 Coding Profiles
-- 🟠 LeetCode — 1507 Rating  
-- 🔵 Codeforces — 1001 Rating  
-- 🟤 CodeChef — 1★  
+- 🟠 LeetCode — 1605(Max) Rating  
+- 🔵 Codeforces — 1001 Rating
 
 ---
 
