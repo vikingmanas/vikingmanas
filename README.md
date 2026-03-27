@@ -18,6 +18,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF7A18&center=true&width=650&lines=Apple+SSC+'26+Winner+🏆;Java+Backend+Developer;DSA+%7C+Spring+Boot+%7C+SQL;iOS+%7C+SwiftUI+%7C+3D+Design;Preparing+for+SDE+Internships+2026" />
 </p>
 
+<div align="center">
+  
+  </div>
+
 ---
 
 ## 👨‍💻 About Me
