@@ -15,18 +15,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF7A18&center=true&width=650&lines=Java+Backend+Developer;DSA+%7C+Spring+Boot+%7C+SQL;Full+Stack+Developer;Preparing+for+SDE+Internships+2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF7A18&center=true&width=650&lines=Apple+SSC+'26+Winner+🏆;Java+Backend+Developer;DSA+%7C+Spring+Boot+%7C+SQL;iOS+%7C+SwiftUI+%7C+3D+Design;Preparing+for+SDE+Internships+2026" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
+- 🏆 **Winner — Apple Swift Student Challenge 2026** 🍎
 - 🎓 3rd Year B.Tech CSE — Galgotias University  
 - 💻 Aspiring **Software Engineer / Backend Developer**
 - ⚙️ Strong in **Java, DSA, OOP, DBMS, OS, CN**
 - 🔥 Solved 300+ DSA problems across platforms
-- 🧠 Focused on **Spring Boot, System Design, and Backend Development**
+- 🧠 Focused on **Spring Boot, System Design, and iOS Development**
 - 🤖 Experience in **AI/ML, RAG, and LLM based projects**
 - 🎯 Target: Product-based companies & top tech internships
 
@@ -40,16 +41,22 @@
 
 | Category | Skills |
 |----------|---------|
-| Languages | Java, Python, C++, JavaScript, SQL |
+| Languages | Java, Swift, Python, C++, JavaScript, SQL |
 | Backend | Spring Boot, Node.js, REST API |
 | Frontend | React, Next.js, HTML, CSS, Bootstrap |
+| Mobile | SwiftUI, RealityKit, iOS Development |
 | Database | MySQL, MongoDB, PostgreSQL |
 | AI / ML | TensorFlow, OpenCV, LangChain, LLM |
-| Tools | Git, GitHub, Docker, Postman, IntelliJ, VS Code |
+| Tools | Git, GitHub, Docker, Postman, IntelliJ, Xcode |
 
 ---
 
 ## 🚀 Projects
+
+### 🔹 MoleVerse – Apple Swift Student Challenge '26 Winner 🏆
+- Interactive 3D chemistry learning app replacing memorization with 3D visualization.
+- Built immersive spatial experiences using **SwiftUI** and **RealityKit**.
+- Recognized globally by Apple for solving real-world educational problems.
 
 ### 🔹 MedGen – AI Medical Chatbot
 - Built using RAG + LangChain + Vector DB
@@ -61,11 +68,6 @@
 - MySQL database integration
 - Java backend + frontend templates
 
-### 🔹 MoleVerse – Swift Student Challenge
-- 3D chemistry learning app
-- Built with SwiftUI + RealityKit
-- Modular architecture
-
 ### 🔹 MindEase – NLP Chatbot
 - Sentiment analysis based chatbot
 - Built using Python NLP libraries
@@ -74,9 +76,10 @@
 
 ## 🏆 Achievements
 
-- AI-ML Virtual Internship — Google for Developers & AICTE
-- Finalist — Smart India Hackathon
-- Contributor — GirlScript Summer of Code
+- **Winner** — Apple Swift Student Challenge 2026 (WWDC26)
+- **Finalist** — Smart India Hackathon 2024 (Team Alpha, LawBot)
+- **AI-ML Virtual Internship** — Google for Developers & AICTE
+- **Contributor** — GirlScript Summer of Code '24
 - Active Competitive Programmer
 
 ---
