@@ -179,3 +179,16 @@ Backend Engineering   ███████████████████�
 Problem Solving       ███████████████████░  DSA · LeetCode
 iOS Development       ████████████████░░░░  SwiftUI · RealityKit
 System Design         ███████████░░░░░░░░░  Scalability · Architecture
+
+🤝 Let's Connect
+
+I'm always interested in discussing software engineering, backend development, iOS, AI, open source, and new opportunities.
+
+<div align="center"> <a href="https://www.linkedin.com/in/manas-dubey-415385296"> <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/> </a>
+
+<br/><br/>
+
+Build. Learn. Improve. Repeat.
+<br/> <img src="https://komarev.com/ghpvc/?username=vikingmanas&style=for-the-badge&color=FF7A18&label=PROFILE+VIEWS" alt="Profile Views"/> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A18,100:FFB347&height=120&section=footer" width="100%" alt="Footer"/> </div> ```
+
+This version avoids the two stats services that were broken in your screenshot. The profile now emphasizes the things that actually strengthen your positioning: Apple SSC winner → MoleVerse → Java/backend → LeetCode 1605 → 300+ DSA problems.
