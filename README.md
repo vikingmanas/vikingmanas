@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A18,100:FFB347&height=220&section=header&text=Manas%20Dubey&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Apple%20SSC%20Winner&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A18,100:FFB347&height=220&section=header&text=Manas%20Dubey&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Apple%20SSC%20Winner&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
 
 # Hi, I'm Manas 👋
 
@@ -26,23 +26,24 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a **B.Tech Computer Science student at Galgotias University** focused on building scalable software and meaningful user experiences.
 
-My work spans **backend engineering, iOS development, artificial intelligence, and competitive programming**. I enjoy turning ideas into complete products—from designing backend systems to building immersive 3D experiences.
+My work spans **backend engineering, iOS development, artificial intelligence, and problem solving**. I enjoy turning ideas into complete products — from designing backend systems to building immersive 3D experiences.
 
-* 🏆 Winner of the **Apple Swift Student Challenge 2026**
-* 💻 Focused on **Java, Spring Boot, DSA, and backend engineering**
-* 📱 Building immersive experiences with **SwiftUI and RealityKit**
-* 🤖 Experience with **RAG, LLMs, AI/ML, and NLP**
-* 🧩 Solved **300+ DSA problems** across coding platforms
-* 📚 Currently learning **System Design and scalable backend architecture**
-* 🎯 Working toward **Software Engineering opportunities at product-based companies**
+- 🏆 Winner of the **Apple Swift Student Challenge 2026**
+- 💻 Focused on **Java, Spring Boot, DSA, and Backend Engineering**
+- 📱 Building immersive experiences with **SwiftUI and RealityKit**
+- 🤖 Experience with **RAG, LLMs, AI/ML, and NLP**
+- 🧩 Solved **300+ DSA problems** across coding platforms
+- 🟠 Achieved a **1605 Max Rating on LeetCode**
+- 📚 Currently learning **System Design and Scalable Backend Architecture**
+- 🎯 Working toward **Software Engineering opportunities at product-based companies**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -66,16 +67,16 @@ My work spans **backend engineering, iOS development, artificial intelligence, a
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🧪 MoleVerse — Apple Swift Student Challenge 2026 Winner
 
 > An interactive 3D chemistry learning experience designed to replace memorization with spatial understanding.
 
-* Built immersive molecular visualizations using **SwiftUI** and **RealityKit**
-* Designed interactive 3D learning experiences for chemistry education
-* Created to make complex molecular concepts more intuitive and engaging
-* Recognized by **Apple** as a winning submission in the Swift Student Challenge 2026
+- Built immersive molecular visualizations using **SwiftUI** and **RealityKit**
+- Designed interactive 3D learning experiences for chemistry education
+- Created to make complex molecular concepts more intuitive and engaging
+- Recognized by **Apple** as a winning submission in the Swift Student Challenge 2026
 
 <p>
   <a href="https://apps.apple.com/in/app/moleverse/id6780773163">
@@ -89,10 +90,10 @@ My work spans **backend engineering, iOS development, artificial intelligence, a
 
 > A context-aware AI assistant built using Retrieval-Augmented Generation.
 
-* Developed a **RAG-based architecture** using LangChain and vector search
-* Integrated LLMs for context-aware response generation
-* Built the backend using **Python and PostgreSQL**
-* Designed retrieval pipelines for improved response relevance
+- Developed a **RAG-based architecture** using LangChain and vector search
+- Integrated LLMs for context-aware response generation
+- Built the backend using **Python and PostgreSQL**
+- Designed retrieval pipelines for improved response relevance
 
 **Tech:** `Python` · `LangChain` · `RAG` · `LLM` · `PostgreSQL`
 
@@ -102,10 +103,10 @@ My work spans **backend engineering, iOS development, artificial intelligence, a
 
 > A full-stack vehicle management platform with authentication and database integration.
 
-* Developed backend functionality using **Java**
-* Implemented authentication and user management
-* Integrated a relational database using **MySQL**
-* Built vehicle inventory and dealership management features
+- Developed backend functionality using **Java**
+- Implemented authentication and user management
+- Integrated a relational database using **MySQL**
+- Built vehicle inventory and dealership management features
 
 **Tech:** `Java` · `MySQL` · `JDBC` · `HTML` · `CSS` · `JavaScript`
 
@@ -115,86 +116,66 @@ My work spans **backend engineering, iOS development, artificial intelligence, a
 
 > An NLP-powered chatbot that analyzes sentiment to provide context-aware interactions.
 
-* Implemented sentiment analysis using Python NLP libraries
-* Designed conversational flows based on detected user sentiment
-* Explored practical applications of natural language processing
+- Implemented sentiment analysis using Python NLP libraries
+- Designed conversational flows based on detected user sentiment
+- Explored practical applications of Natural Language Processing
 
 **Tech:** `Python` · `NLP` · `Sentiment Analysis`
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
-| Achievement                                  | Recognition                  |
-| -------------------------------------------- | ---------------------------- |
-| 🏆 Apple Swift Student Challenge 2026        | **Winner**                   |
-| 💡 Smart India Hackathon 2024 Pre-Qualifiers | **Top 100 of 400 Teams**     |
-| 🤖 Google for Developers & AICTE             | **AI/ML Virtual Internship** |
-| 🌍 GirlScript Summer of Code 2024            | **Open Source Contributor**  |
-| 🧩 Competitive Programming                   | **300+ DSA Problems Solved** |
-
----
-
-## Competitive Programming
-
-<div align="center">
-
-| Platform      | Profile             |
-| ------------- | ------------------- |
-| 🟠 LeetCode   | **1605 Max Rating** |
-| 🔵 Codeforces | **1001 Rating**     |
-
-</div>
+| Achievement | Recognition |
+|---|---|
+| 🍎 Apple Swift Student Challenge 2026 | **Winner** |
+| 💡 Smart India Hackathon 2024 Pre-Qualifiers | **Top 100 of 400 Teams** |
+| 🤖 Google for Developers & AICTE | **AI/ML Virtual Internship** |
+| 🌍 GirlScript Summer of Code 2024 | **Open Source Contributor** |
+| 🧩 Problem Solving | **300+ DSA Problems Solved** |
 
 ---
 
-## GitHub Activity
+## 🟠 LeetCode
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikingmanas&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Manas Dubey's GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikingmanas&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikingmanas&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-## Current Focus
-
-```text
-Backend Engineering   ████████████████████  Java · Spring Boot · REST APIs
-Problem Solving       ███████████████████░  DSA · Competitive Programming
-iOS Development       ████████████████░░░░  SwiftUI · RealityKit
-System Design         ███████████░░░░░░░░░  Scalability · Architecture
-```
-
----
-
-## Let's Connect
-
-I'm always interested in discussing **software engineering, backend development, iOS, AI, open source, and new opportunities**.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/manas-dubey-415385296">
-  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<a href="https://leetcode.com/u/ManasDu/">
+  <img src="https://img.shields.io/badge/LeetCode-1605_Max_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
 </a>
 
 <br/><br/>
 
-### Build. Learn. Improve. Repeat.
-
-<img src="https://komarev.com/ghpvc/?username=vikingmanas&style=for-the-badge&color=FF7A18&label=PROFILE+VIEWS" alt="Profile Views"/>
+**300+ DSA Problems Solved**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A18,100:FFB347&height=120&section=footer" width="100%"/>
+<a href="https://leetcode.com/u/ManasDu/">
+  View My LeetCode Profile →
+</a>
 
 </div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=vikingmanas&bg_color=0d1117&color=ffffff&line=ff8c32&point=ffffff&area=true&hide_border=true"
+  width="95%"
+  alt="Manas Dubey's GitHub Contribution Graph"
+/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Backend Engineering   ████████████████████  Java · Spring Boot · REST APIs
+Problem Solving       ███████████████████░  DSA · LeetCode
+iOS Development       ████████████████░░░░  SwiftUI · RealityKit
+System Design         ███████████░░░░░░░░░  Scalability · Architecture
